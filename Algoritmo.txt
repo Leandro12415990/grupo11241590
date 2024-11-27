@@ -19,5 +19,6 @@ Inicio
 	senão
 		escrever("false")
 	então
+	escrever("O resultado é: ", n)
 	
 Fim
